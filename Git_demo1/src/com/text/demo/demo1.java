@@ -14,4 +14,8 @@ public class demo1 {
         }
 
     }
+    public void text(){
+        int a  = 10;
+        System.out.println(a+10);
+    }
 }
